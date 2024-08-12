@@ -1,0 +1,4 @@
+-----> Module : Module or Library is a file that contains the definitations of the functions, methods, classes that are written someone else for us.
+-----> PIP : pip is a package manager. It is used to install the modules in your pc. EX: pip install flask.
+-----> Inbuilt Moudle: Random Generator function, os.
+-----> external Module: Flask, pandas, that need to install and imported uisng pip.

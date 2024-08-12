@@ -1,0 +1,12 @@
+s=set()
+print(type(s))
+l=[1,2,3,4,1,2]
+s=set(l);
+s.add(8)
+s.remove(1)
+s1={1,2}
+print(s.isdisjoint(s1))
+s1=s.intersection({1,2,3})
+print(s1);
+s1=s.union({2,3,9,7,85})
+print(s1)
